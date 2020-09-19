@@ -7,11 +7,6 @@
 <title>Trades Types</title>
 </head>
 <body>
-FX-SPOT
-Market Trade
-Stop Loss Trade
-SWAPS
-Fixed Income
-Bonds
+Welcome to Trades Type // ${tname}
 </body>
 </html>
